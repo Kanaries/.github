@@ -24,9 +24,11 @@ https://github.com/Kanaries/.github/assets/22167673/2bea86eb-3a0d-4d28-b9dd-30fd
 ##### Data Painter in PyGWalker
 
 Use Data Painter to clean data
+
 https://github.com/Kanaries/.github/assets/22167673/6cad2df8-7f35-4278-9ee6-865ccda15ed3
 
 Use Data Painter to create new features/annotations to analysis
+
 https://github.com/Kanaries/.github/assets/22167673/39afe966-6b89-48fc-a069-a82aebe11170
 
 
