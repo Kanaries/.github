@@ -20,7 +20,7 @@ Kanaries is an open source startup that focus on data exploration and data visua
 | - | - | - |
 | [Graphic Walker](https://kanaries.net/graphic-walker) | Embeddable analytic solution, embed an interactive visual analytic component in your system. | ![graphic-walker-banner](https://pub-8e7aa5bf51e049199c78b4bc744533f8.r2.dev/graphic-walker-banner202402.png) |
 | [PyGWalker](https://kanaries.net/pygwalker) | Turn your data into an interactive UI for data exploration. It allows you to visualize your data with simple drag-and-drop operations. | ![pygwalker-banner-gh](https://github.com/Kanaries/.github/assets/22167673/427e5ded-f6a7-407e-9312-d439319c6fb0) |
-| [Rath](https://kanaries.net/rath) | An automatic Exploratory Data Analysis(auto-EDA) system which helps extract insights and generate charts and interactive dashboard. | ![kanaries rath](https://camo.githubusercontent.com/cdfa9c7aad0361e06108ae4b4eb37a2c87cbc89ebd8bc58c0494c7f3682c883c/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f726174682d6d61696e2d62616e6e6572322e706e67)|
+| [Rath](https://kanaries.net/rath) | An automatic Exploratory Data Analysis(auto-EDA) system which helps extract insights and generate charts and interactive dashboard. | ![kanaries rath](https://docs-us.oss-us-west-1.aliyuncs.com/images/readme/rath-main-banner2.png)|
 | [lab2](https://lab2.dev) | AI generated data apps, building data apps with simple text prompts | Comming Soon! |
 
 
